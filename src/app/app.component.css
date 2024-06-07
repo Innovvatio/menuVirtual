@@ -1,0 +1,11 @@
+.principal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 0px;
+  padding: 0;
+  width: 1990px;
+  height: 100%;
+  background-image: linear-gradient(rgba(89, 55, 55, 0.7), rgba(145, 139, 158, 0.7));
+}
+
